@@ -6,5 +6,4 @@ Pulled together all the files I require to get a development system running on m
 
 2. Set up the IO Remap as:
 
-[XXX](./"IO Remap.JPG")
-
+<img alt="IO Remap" src="./IO Remap.JPG">
