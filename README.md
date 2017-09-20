@@ -1,6 +1,6 @@
 # RC2014
 
-Pulled together all the files I require to get a development system running on my virtual system.
+Pulled together all the files I require to get a development system running on my virtualbox system.
 
 1. Download the ZEMU Emulator from : http://www.z80.info/zip/zemu.zip
 
