@@ -6,5 +6,5 @@ Pulled together all the files I require to get a development system running on m
 
 2. Set up the IO Remap as:
 
-(./IO Remap.JPG)
+[XXX](./IO Remap.JPG)
 
